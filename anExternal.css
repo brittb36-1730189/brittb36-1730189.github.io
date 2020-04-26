@@ -1,0 +1,36 @@
+#firstParagraph {
+    font-family: "Passion One";
+    background-color: #8E41D5;
+}
+
+#secondParagraph {
+    font-family: "Arial";
+}
+.container {
+    position: relative;
+    text-align: center;
+}
+
+#centerText {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 20px;
+    color:#FFBC00;
+}
+
+#margins {
+    margin: 20px;
+}
+
+#dottedLine {
+    border: dotted;
+}
+
+#masterFloat {
+    float: left;
+    border-radius: 50px;
+    padding: 20px;
+    width: 100px;
+    height: 200px;
+}
